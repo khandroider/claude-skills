@@ -1,0 +1,6 @@
+{
+  "name": "mirpoll",
+  "version": "0.1.0",
+  "description": "Index the codebase, interview the user until the plan is confirmed, write a spec with DoR/DoD and get approval before coding.",
+  "author": { "name": "Kaiyrkhan Serik" }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "kaiyrkhan-skills",
+  "owner": { "name": "Kaiyrkhan Serik" },
+  "plugins": [
+    {
+      "name": "mirpoll",
+      "source": "./plugins/mirpoll",
+      "description": "Index the codebase, interview the user until the plan is confirmed, write a spec with DoR/DoD and get approval before coding.",
+      "version": "0.1.0"
+    }
+  ]
+}
