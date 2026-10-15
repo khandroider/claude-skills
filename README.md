@@ -5,7 +5,7 @@ Claude Code plugin marketplace.
 ## Install
 
 ```
-/plugin marketplace add <github-user>/claude-skills
+/plugin marketplace add khandroider/claude-skills
 /plugin install mirpoll@kaiyrkhan-skills
 ```
 
