@@ -44,7 +44,7 @@ Rules:
 
 ## Step 3. Spec and plan
 
-1. Write `docs/tz/<slug>.md` (if no `docs` folder, write `TZ-<slug>.md` in the project root):
+1. Write `docs/techspec/<slug>.md` (if no `docs` folder, write `TECHSPEC-<slug>.md` in the project root):
    - **Goal** — what we want and why.
    - **Context** — what exists now. Link the module docs from Step 1.
    - **In scope / Out of scope**
